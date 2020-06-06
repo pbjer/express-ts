@@ -1,0 +1,17 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "Barebones setup for Express + Typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Prentice Bjerkeseth",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
