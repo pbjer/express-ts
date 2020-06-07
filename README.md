@@ -1,5 +1,7 @@
-# Express + Typescript template repository
+# Express + Typescript with hot reload
 
-Includes basic `tsconfig.json` and `.gitignore`
+Includes basic `tsconfig.json`, `tslint.json`, and `.gitignore`
 
-Just run `npm install`
+Run `npm install` to install dependencies
+
+Run `npm run start` to start the server on port 3000 with hot reloading
